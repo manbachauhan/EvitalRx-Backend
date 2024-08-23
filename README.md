@@ -19,8 +19,8 @@ This is the backend for the full-stack project, built with Node.js, Express.js, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo/backend
+git clone https://github.com/manbachauhan/EvitalRx-Backend.git
+cd your-repo/EvitalRx-Backend
 ```
 
 ### 2. Install Dependencies
