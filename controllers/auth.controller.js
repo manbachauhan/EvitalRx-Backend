@@ -161,7 +161,8 @@ export const login = async (req, res) => {
       user: { ...user._doc, password: undefined },
     });
   } catch (error) {
-    res.status(500).json({ success: false, message: ` Login failed ${error.message}` });
+    res.status(500).json({ success: false, message: ` Login failed 
+      ${error.message}` });
   }
 };
 
